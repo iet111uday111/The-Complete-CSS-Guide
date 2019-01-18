@@ -299,7 +299,11 @@ If you must use an ID selector in the first place (and you should really try not
 #### What is CSS
 ![Screenshot](./Screenshots/Screenshot1.png?raw=true "Screenshot")
 
+#### CSS History
+![Screenshot](./Screenshots/Screenshot2.png?raw=true "Screenshot")
 
+#### CSS Topics 
+![Screenshot](./Screenshots/Screenshot3.png?raw=true "Screenshot")
 
 ### IMP Links
 
@@ -307,5 +311,8 @@ If you must use an ID selector in the first place (and you should really try not
 
 [The Ultimate Guide to CSS](https://skillcrush.com/2012/04/03/css/)
 
+[A Look Back at the History of CSS](https://css-tricks.com/look-back-history-css/)
+
+[CSS History, A Brief Overview](https://simplecss.eu/blog/css-history-brief-overview/)
 
 
