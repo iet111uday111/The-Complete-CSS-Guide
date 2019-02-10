@@ -305,6 +305,30 @@ If you must use an ID selector in the first place (and you should really try not
 #### CSS Topics 
 ![Screenshot](./Screenshots/Screenshot3.png?raw=true "Screenshot")
 
+#### CSS Selectors  
+![Screenshot](./Screenshots/Screenshot4.png?raw=true "Screenshot")
+
+#### CSS Selectors
+![Screenshot](./Screenshots/Screenshot5.png?raw=true "Screenshot")
+
+#### CSS  Multiple Classes
+![Screenshot](./Screenshots/Screenshot6.png?raw=true "Screenshot")
+
+#### CSS & Specificity
+![Screenshot](./Screenshots/Screenshot7.png?raw=true "Screenshot")
+
+#### CSS Topics 
+![Screenshot](./Screenshots/Screenshot8.png?raw=true "Screenshot")
+
+#### CSS Topics 
+![Screenshot](./Screenshots/Screenshot9.png?raw=true "Screenshot")
+
+#### CSS Topics 
+![Screenshot](./Screenshots/Screenshot10.png?raw=true "Screenshot")
+
+#### CSS Topics 
+![Screenshot](./Screenshots/Screenshot11.png?raw=true "Screenshot")
+
 ### IMP Links
 
 [CSS (cascading style sheets)](https://www.theserverside.com/definition/cascading-style-sheet-CSS)
